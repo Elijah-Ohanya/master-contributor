@@ -37,3 +37,30 @@
 a{
     text-decoration: none;
 }
+
+.main{
+    border: 2px solid blue;
+    min-height: 80vh;
+
+}
+
+.hero-session{
+    border: 2px solid blue;
+    min-height: 80vh;
+
+}
+
+.about-session{
+    border: 2px solid blue;
+    min-height: 80vh;
+    
+}
+
+.contact{
+    border: 2px solid blue;
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: xx-large;
+}
